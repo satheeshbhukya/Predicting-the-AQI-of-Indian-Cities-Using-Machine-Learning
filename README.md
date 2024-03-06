@@ -1,4 +1,4 @@
-# Predicting-the-AQI-of-Indian-Cities-Using-Machine-Learning
+# Predicting-the-AQI-of-Indian-Cities-Using-Machine-Learning : H2O.ai Hackathon
 
 # Introduction
 
