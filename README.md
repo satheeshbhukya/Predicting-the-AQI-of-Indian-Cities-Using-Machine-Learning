@@ -39,10 +39,11 @@ Assess the model's performance using relevant evaluation metrics such as Mean Ab
  > I got MAE for FB PROPHET MODEL IS  : 528.99
 
  > I got MAE FOR  SARIMAX MODEL IS : 36.89
+>  I MAE for ARIMA + BoxCox transformation : 32
 
  > Which ever has less MAE VALUE perfoms well 
 
- > So I have choosen SARIMAX MODEL to train future data values 
+ > So I have choosen ARIMA + BoxCox Transformation MODEL to train future data values 
 
 
 # Conclusion
